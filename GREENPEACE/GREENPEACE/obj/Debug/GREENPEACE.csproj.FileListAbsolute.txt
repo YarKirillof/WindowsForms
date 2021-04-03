@@ -1,0 +1,11 @@
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\bin\Debug\GREENPEACE.exe.config
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\bin\Debug\GREENPEACE.exe
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\bin\Debug\GREENPEACE.pdb
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\obj\Debug\GREENPEACE.csprojAssemblyReference.cache
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\obj\Debug\GREENPEACE.ParentForm.resources
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\obj\Debug\GREENPEACE.Properties.Resources.resources
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\obj\Debug\GREENPEACE.RombForm.resources
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\obj\Debug\GREENPEACE.csproj.GenerateResource.cache
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\obj\Debug\GREENPEACE.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\obj\Debug\GREENPEACE.exe
+C:\Users\Ярослав\source\repos\GREENPEACE\GREENPEACE\obj\Debug\GREENPEACE.pdb
