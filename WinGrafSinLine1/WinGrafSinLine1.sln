@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinGrafSinLine1", "WinGrafSinLine1\WinGrafSinLine1.csproj", "{B5C37825-92B8-4BE6-BDC0-C40EABC341DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C37825-92B8-4BE6-BDC0-C40EABC341DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C37825-92B8-4BE6-BDC0-C40EABC341DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C37825-92B8-4BE6-BDC0-C40EABC341DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C37825-92B8-4BE6-BDC0-C40EABC341DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {543E86C7-3551-418A-B55D-644DA7E9F46F}
+	EndGlobalSection
+EndGlobal
